@@ -1,0 +1,1 @@
+Forhead:5.0,Cheekbones:2.0,Jawline:2.0,Face length:5.0,Shape:Oval
