@@ -77,4 +77,4 @@ This project does not have an explicitly defined license. Please refer to the re
 
 ## Contact
 
-Your Name - [https://github.com/poulsamiksha7/21_Days_21_Python_Projects.git](https://github.com/poulsamiksha7/21_Days_21_Python_Projects) - poulsamiksha07@gmail.com
+Samiksha Dnyanoba Poul - [https://github.com/poulsamiksha7/21_Days_21_Python_Projects.git](https://github.com/poulsamiksha7/21_Days_21_Python_Projects) - poulsamiksha07@gmail.com
